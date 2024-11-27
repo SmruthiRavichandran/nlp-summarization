@@ -1,6 +1,3 @@
-Below is an example of a **README** file for the repository you mentioned, complete with a detailed explanation and documentation outline. I will adapt this to include best practices and ensure clarity.
-
----
 
 # NLP Summarization
 
